@@ -5,9 +5,9 @@
 //  algorithm and data structure p.142
 //  program : Node
 //
-//  Created by 차승주 on 2019. 4. 22..
-//  Copyright © 2019년 cha. All rights reserved.
-//  Created dOn MacBook Pro 2017
+//  Created by CHA SEUNGJU on 2019. 4. 22..
+//  Copyright © 2019 cha. All rights reserved.
+//  Created On MacBook Pro 2017
 //
 
 #include <stdio.h>
